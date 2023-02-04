@@ -1,4 +1,4 @@
-# credit_card_prediction_analysis
+# Credit Card Prediction Analysis
 
 This project is about using machine learning techniques to predict whether a credit card holder will default on their payment. The goal is to accurately classify customers as either likely to default or unlikely to default based on their past credit behavior and other relevant information.
 
